@@ -1,0 +1,1 @@
+Si, en el punto anterior no se pudo hacer commit despuès de crear la carpeta, eso quiere decir que github no toma como cambio una carpeta vacia.
