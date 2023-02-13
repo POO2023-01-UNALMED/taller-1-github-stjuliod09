@@ -1,3 +1,7 @@
+Se puede realizar el commit y push porque hemos creado un archivo dentro de la carpeta que estaba vacia.
+
 Stiven Julio Doval
 18 años
 Espero mejorar mis habilidades como ing. de sistemas
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque se pueden presentar este tipo de coflictos, lo que puede hacer que el proyecto se vea comprometido.
