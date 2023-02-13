@@ -1,1 +1,0 @@
-La carpeta archivos por si sola no representa un cambio en el respositoria al estar vacia, una vez si crea un archivo se puede realizar el commit y el push.
