@@ -1,1 +1,0 @@
-Ahora si podemos hacer el commit al haber creado un archivo en la carpeta anteriormente vacia.
