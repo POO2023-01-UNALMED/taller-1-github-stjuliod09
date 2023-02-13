@@ -1,1 +1,0 @@
-Ahora si podemos realizar el commit porque hemos agreagado un archivo a la carpeta antes vacia.
