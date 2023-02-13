@@ -1,0 +1,1 @@
+Se puede realizar el commit y push porque hemos creado un archivo dentro de la carpeta que estaba vacia.
